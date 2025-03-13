@@ -15,8 +15,8 @@ you want the output:
     OUTPUT_JS:  the .js file containing the converted JSON data so it can be loaded
                 into the interactive visualization
 """
-INPUT_CSV = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/Shawn/bairds-sparrow-demo/bairds_sparrow_locations.csv"
-OUTPUT_JS = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/Shawn/bairds-sparrow-demo/interactive-map/locations.js"
+INPUT_CSV = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/bairds-sparrow-demo/bairds_sparrow_locations.csv"
+OUTPUT_JS = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/bairds-sparrow-demo/interactive-map/locations.js"
 
 
 # read the sparrow locations
