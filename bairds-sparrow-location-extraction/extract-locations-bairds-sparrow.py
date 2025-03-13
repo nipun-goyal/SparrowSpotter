@@ -21,8 +21,8 @@ you want the output:
                     the document will be recorded in
 """
 
-INPUT_FILE = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/Shawn/bairds-sparrow-demo/bairds-sparrow-location-extraction/B3%2D07 %2D Appendix 06 %2D ESA Appendix 10 %2D Wildlife Technical Report Part 2 of 2 %2D A4E7D7.html"
-OUTPUT_FILE = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/Shawn/bairds-sparrow-demo/bairds-sparrow-location-extraction/locations.csv"
+INPUT_FILE = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/bairds-sparrow-demo/bairds-sparrow-location-extraction/B3%2D07 %2D Appendix 06 %2D ESA Appendix 10 %2D Wildlife Technical Report Part 2 of 2 %2D A4E7D7.html"
+OUTPUT_FILE = "W:/COE/coeprojects/NEB/2019_IN_Text_S52/03_WIP/bairds-sparrow-demo/bairds-sparrow-location-extraction/locations.csv"
 
 
 # columns of the output .csv table
