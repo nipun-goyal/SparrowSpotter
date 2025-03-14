@@ -28,9 +28,9 @@ The `docs/` folder contains:
 - The JavaScript code (demo.js) used for the map.
 
 ## Method
-1. **Extraction**: All locations were extracted from the sample document using the location extraction methods documented in Appendix J. The locations were saved into a .csv file, which included information on which page each location was identified on and the order in which the locations appeared in the document.
+1. **Extraction**: All locations were extracted from the sample document using the location extraction methods. The locations were saved into a .csv file, which included information on which page each location was identified on and the order in which the locations appeared in the document.
 
-2. **Manual Check**: Using the output .csv file, we manually checked the locations in the document to find those related to the **Baird’s Sparrow**. These locations were marked in a designated column in the .csv file.
+2. **Manual Check**: Using the output .csv file, the locations were manually checked in the document to find those related to the **Baird’s Sparrow**. These locations were marked in a designated column in the .csv file.
 
 3. **Conversion**: The final .csv file was converted to a JavaScript file containing a JSON object with information on the locations.
 
