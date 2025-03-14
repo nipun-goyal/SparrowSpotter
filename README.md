@@ -36,13 +36,3 @@ The `interactive-map/` inner folder contains:
 3. **Conversion**: The final .csv file was converted to a JavaScript file containing a JSON object with information on the locations.
 
 4. **Visualization**: A visualization was built using **Leaflet**, with tiles provided from **OpenStreetMap**. This visualization allows users to view all locations identified in the document and highlight locations specifically related to the **Baird’s Sparrow**.
-
-## Installation
-(Include instructions on how to clone the repository and set up the project locally, if applicable.)
-
-## License
-(Include information about the project's license, if applicable.)
-
-## Acknowledgments
-(Include any acknowledgments, credits, or references relevant to the project.)
-
