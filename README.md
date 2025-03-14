@@ -1,7 +1,7 @@
 # SparrowSpotter
 
 ## Purpose
-The purpose of **SparrowSpotter** is to visualize the locations of specific species of interest, utilizing the results from location extraction. Using a sample document, we identified all locations related to the **Baird’s Sparrow** (a bird species designated as “Special Concern”). These locations were then plotted onto an interactive map using **Leaflet**.
+The purpose of **SparrowSpotter** is to visualize the locations of specific species of interest, utilizing the results from location extraction. Using a sample document, all locations related to the **Baird’s Sparrow** (a bird species designated as “Special Concern”) were identified. These locations were then plotted onto an interactive map using **Leaflet**.
 
 ## Input
 - The document containing locations related to the **Baird’s Sparrow**.
